@@ -1,2 +1,2 @@
-# mizuno
-mizuno
+# pongtwo
+Jogo pong no JavaScript
